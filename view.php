@@ -1,2 +1,2 @@
-<?php 
-  echo 'this is the colne commit';
+<?php
+echo 'this is the master commit';
